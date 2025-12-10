@@ -1,0 +1,10 @@
+edu.bu.pas.pokemon
+edu.bu.pas.pokemon.agents
+edu.bu.pas.pokemon.agents.test
+edu.bu.pas.pokemon.core
+edu.bu.pas.pokemon.core.callbacks
+edu.bu.pas.pokemon.core.callbacks.test
+edu.bu.pas.pokemon.core.enums
+edu.bu.pas.pokemon.core.lookups
+edu.bu.pas.pokemon.rendering
+edu.bu.pas.pokemon.utils
